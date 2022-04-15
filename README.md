@@ -1,8 +1,8 @@
-### iOSDeveloper
-***
+iOSDeveloper
+---------------
 
 ### Experience
-- StopWatch 앱스토어 출시 [피드백](https://working-melody-26f.notion.site/StopWatch-Feedback-Management-0131fbe9f9d14c5b939c519c167e07d4) 관리 및 기능 개선
+- [StopWatch](https://github.com/iosdevSW/StopWatch) 앱스토어 출시 [피드백](https://working-melody-26f.notion.site/StopWatch-Feedback-Management-0131fbe9f9d14c5b939c519c167e07d4) 관리 및 기능 개선
 
 ### Stack
 - Swift
