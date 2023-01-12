@@ -9,4 +9,4 @@
 <img src="https://img.shields.io/badge/Swift-important?style=flat&logo=Swift&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat&logo=ReactiveX&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Realm-39477F?style=flat&logo=Realm&logoColor=FFFFFF"/>
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iosdevSW)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
+[![Anurag's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iosdevSW)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
