@@ -20,7 +20,7 @@
 |---|---|
 | [CMC] Central MakeUs Challenge 13기 iOS | 23. 06. 10 ~ 23. 09. 10 |
 | [CMC] Central MakeUs Challenge 14기 iOS Lead | 23. 10. 03 ~ 24. 02. 24 |
-| [CMC] Central MakeUs Challenge 15기 iOS Lead
+| [CMC] Central MakeUs Challenge 15기 iOS Lead | 24. 03. 22 ~ | 
 
 
 <br><br>
